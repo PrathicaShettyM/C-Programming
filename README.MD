@@ -10,7 +10,7 @@ This repository consists of fundmental to advance topics in C programming langua
 ## Linked List problems
 1. Creation and Traversal
 2. Insertion - beginning, in between, at an index, end
-3. Deletion - beginning, in between, at an index, end
+3. Deletion - beginning, in between, end, node with value
 4. Circular Linked List
 5. Doubly Linked List
 
